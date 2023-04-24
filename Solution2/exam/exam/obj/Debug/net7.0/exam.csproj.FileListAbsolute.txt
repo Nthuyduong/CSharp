@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/bin/Debug/net7.0/exam
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/bin/Debug/net7.0/exam.deps.json
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/bin/Debug/net7.0/exam.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/bin/Debug/net7.0/exam.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/bin/Debug/net7.0/exam.pdb
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/refint/exam.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.pdb
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/exam.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/exam/exam/obj/Debug/net7.0/ref/exam.dll
