@@ -1,15 +1,26 @@
 ﻿<Properties StartupConfiguration="{60177482-0281-4CF7-9310-0BDF5EFF239D}|Default">
-  <MonoDevelop.Ide.ItemProperties.exam FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="exam/Program.cs">
-    <Files>
-      <File FileName="exam/Program.cs" Line="1" Column="1" />
-      <File FileName="../Abstract/Demo.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exam1/exam/Demo.cs">
+    <Files>
+      <File FileName="exam/Program.cs" Line="35" Column="43" />
+      <File FileName="../Abstract/Demo.cs" Line="6" Column="3" />
+      <File FileName="../Abstract/NVKinhdoanh.cs" Line="2" Column="1" />
+      <File FileName="exam/Demo.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam" expanded="True">
+            <Node name="exam" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.exam PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/bin/Debug/net7.0/Application
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/bin/Debug/net7.0/Application.deps.json
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/bin/Debug/net7.0/Application.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/bin/Debug/net7.0/Application.pdb
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.pdb
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Application/Application/obj/Debug/net7.0/ref/Application.dll
