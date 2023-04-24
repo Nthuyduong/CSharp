@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BDC2A29D-ACA6-4FBE-9951-5523086A48C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.bai1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bai1/Tiger.cs">
+    <Files>
+      <File FileName="bai1/Tiger.cs" Line="13" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bai1" expanded="True">
+            <Node name="bai1" expanded="True">
+              <Node name="Tiger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

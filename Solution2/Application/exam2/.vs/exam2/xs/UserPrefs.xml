@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{1019A2AC-3DB0-4637-8B4C-1EFC17022E1E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.exam2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.exam2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exam2/Animal.cs">
+    <Files>
+      <File FileName="exam2/Program.cs" Line="12" Column="22" />
+      <File FileName="exam2/Animal.cs" Line="7" Column="13" />
+      <File FileName="../Application/Cylinder.cs" Line="48" Column="27" />
+      <File FileName="../Application/Demo.cs" Line="3" Column="19" />
+      <File FileName="../../Abstract/Nhanvien.cs" Line="37" Column="20" />
+      <File FileName="../../Abstract/NVKinhdoanh.cs" Line="11" Column="26" />
+      <File FileName="exam2/Lion.cs" Line="13" Column="25" />
+      <File FileName="exam2/EmptyClass.cs" Line="16" Column="31" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam2" expanded="True">
+            <Node name="exam2" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
