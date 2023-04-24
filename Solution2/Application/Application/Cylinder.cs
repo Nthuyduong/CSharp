@@ -40,8 +40,8 @@ class Cylinder
     {
         this.baseArea = 3.14 * (this.radius * this.radius);
         this.lateralArea = 2 * 3.14 * this.radius * this.height;
-        this.totalArea = (2 * this.baseArea) + this.lateralArea;
-        this.volume = this.baseArea * this.height;
+        this.totalArea = 2*3.14*this.radius * ( this.height + this.radius);
+        this.volume = 3.14*this.radius **this.radius *this.height;
 
     }
 
