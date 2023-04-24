@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/bin/Debug/net7.0/mangsinhvi
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/bin/Debug/net7.0/mangsinhvi.deps.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/bin/Debug/net7.0/mangsinhvi.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/bin/Debug/net7.0/mangsinhvi.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/bin/Debug/net7.0/mangsinhvi.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/refint/mangsinhvi.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/mangsinhvi.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/mangsinhvi/obj/Debug/net7.0/ref/mangsinhvi.dll

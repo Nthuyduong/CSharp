@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/nguyenthuyduong/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nguyenthuyduong/Documents/C#/Solution01/test2/test2.csproj",
+      "projectName": "test2",
+      "projectPath": "/Users/nguyenthuyduong/Documents/C#/Solution01/test2/test2.csproj",
+      "packagesPath": "/Users/nguyenthuyduong/.nuget/packages/",
+      "outputPath": "/Users/nguyenthuyduong/Documents/C#/Solution01/test2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nguyenthuyduong/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "runtimeIdentifierGraphPath": "/Users/nguyenthuyduong/Library/Caches/VisualStudio/17.0/MSBuild/30560_3/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

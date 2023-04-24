@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/bin/Debug/net7.0/Test01
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/bin/Debug/net7.0/Test01.deps.json
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/bin/Debug/net7.0/Test01.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/bin/Debug/net7.0/Test01.dll
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/bin/Debug/net7.0/Test01.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.dll
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/refint/Test01.dll
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/Test01.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/C#/Solution01/Test01/Test01/obj/Debug/net7.0/ref/Test01.dll

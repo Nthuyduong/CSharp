@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A729E7CB-29E5-4C20-BC63-E371B1B25F3F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.test2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Project01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution01" expanded="True">
+            <Node name="Project01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="test3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Project02__Renhanh PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

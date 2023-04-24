@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{6A97BDD3-C82F-481E-A9B9-8F1AAA90D0EC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bai2Lap FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.test2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Bai5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.mangsinhvi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.mang1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../mangsinhvi/Studentlist.cs">
+    <Files>
+      <File FileName="../../Solution01/Project02_Mang/Program.cs" Line="20" Column="14" />
+      <File FileName="../../Solution01/Project05_OOP/Student.cs" Line="31" Column="33" />
+      <File FileName="../mang1/Program.cs" Line="1" Column="1" />
+      <File FileName="../mangsinhvi/Program.cs" Line="87" Column="23" />
+      <File FileName="../mangsinhvi/EmptyClass.cs" Line="45" Column="25" />
+      <File FileName="../mangsinhvi/Program.cs" Line="59" Column="44" />
+      <File FileName="../../Day2/Mang_Doituong/Program.cs" Line="29" Column="29" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test1" expanded="True">
+            <Node name="Bai1Lap" expanded="True" />
+            <Node name="Bai2Lap" expanded="True" />
+            <Node name="Bai3Lap" expanded="True" />
+            <Node name="Bai5" expanded="True" />
+            <Node name="mang1" expanded="True" />
+            <Node name="mangsinhvi" expanded="True">
+              <Node name="Studentlist.cs" selected="True" />
+            </Node>
+            <Node name="test1" expanded="True" />
+            <Node name="test2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bai3Lap FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.test1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bai1Lap PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

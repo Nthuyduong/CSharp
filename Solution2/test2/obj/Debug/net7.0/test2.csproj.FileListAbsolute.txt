@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/bin/Debug/net7.0/test2
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/bin/Debug/net7.0/test2.deps.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/bin/Debug/net7.0/test2.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/bin/Debug/net7.0/test2.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/bin/Debug/net7.0/test2.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/refint/test2.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/test2.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/test2/obj/Debug/net7.0/ref/test2.dll

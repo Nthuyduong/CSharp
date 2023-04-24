@@ -1,0 +1,15 @@
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/bin/Debug/net7.0/Bai5
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/bin/Debug/net7.0/Bai5.deps.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/bin/Debug/net7.0/Bai5.runtimeconfig.json
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/bin/Debug/net7.0/Bai5.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/bin/Debug/net7.0/Bai5.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.csproj.CoreCompileInputs.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/refint/Bai5.dll
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.pdb
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/Bai5.genruntimeconfig.cache
+/Users/nguyenthuyduong/Documents/C#/Solution2/Bai5/obj/Debug/net7.0/ref/Bai5.dll
