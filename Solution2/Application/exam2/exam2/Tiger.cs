@@ -8,9 +8,9 @@ namespace exam2
 {
     class Tiger : Animal
     {
-        public Tiger(double weight, string name)
+        public Tiger(double weight, string name):base(weight, name)
         {
-            base.Animal(weight, name);
+           
         }
 
         public override void Show()

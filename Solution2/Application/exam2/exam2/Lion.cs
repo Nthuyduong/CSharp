@@ -3,9 +3,8 @@ namespace exam2
 {
     class Lion : Animal
     {
-        public Lion(double weight, string name)
+        public Lion(double weight, string name) : base(weight, name)
         {
-            base.Animal(weight, name);
         }
 
         public override void Show()
