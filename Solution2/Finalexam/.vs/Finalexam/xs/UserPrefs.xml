@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{B0E2E097-46FD-422D-AA3D-DD3920414650}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Finalexam PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Finalexam/Productlist.cs">
     <Files>
-      <File FileName="Finalexam/Program.cs" Line="6" Column="9" />
-      <File FileName="Finalexam/EmptyClass.cs" Line="23" Column="4" />
       <File FileName="../mangsinhvi/Program.cs" Line="27" Column="11" />
-      <File FileName="../mangsinhvi/Studentlist.cs" Line="28" Column="10" />
-      <File FileName="Finalexam/Productlist.cs" Line="8" Column="2" />
       <File FileName="../mangsinhvi/Student.cs" Line="1" Column="1" />
+      <File FileName="Finalexam/Product.cs" Line="42" Column="1" />
+      <File FileName="../mangsinhvi/Studentlist.cs" Line="28" Column="10" />
+      <File FileName="Finalexam/Productlist.cs" Line="56" Column="12" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,10 +23,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Finalexam FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
