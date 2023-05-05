@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

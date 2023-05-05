@@ -1,0 +1,8 @@
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.AssemblyReference.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+D:\FPTEdu\T2111E_AP\CSharp_Ngay09\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\bin\Debug\Demo_Delegate.exe.config
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\bin\Debug\Demo_Delegate.exe
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\bin\Debug\Demo_Delegate.pdb
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\obj\Debug\Demo_Delegate.exe
+D:\FPTEdu\T2104E\AP\Ngay09\Demo_Delegate\obj\Debug\Demo_Delegate.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\bin\Debug\Demo_Delegate.exe.config
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\bin\Debug\Demo_Delegate.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\bin\Debug\Demo_Delegate.pdb
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.AssemblyReference.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\obj\Debug\Demo_Delegate.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\obj\Debug\Demo_Delegate.exe
+D:\FPTEdu\T2205M\AP_CSharp\CSharp_Ngay08\Demo_Delegate\obj\Debug\Demo_Delegate.pdb

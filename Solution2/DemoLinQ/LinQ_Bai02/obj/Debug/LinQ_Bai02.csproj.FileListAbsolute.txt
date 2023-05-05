@@ -1,0 +1,8 @@
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\bin\Debug\LinQ_Bai02.exe.config
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\bin\Debug\LinQ_Bai02.exe
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\bin\Debug\LinQ_Bai02.pdb
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\obj\Debug\LinQ_Bai02.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\obj\Debug\LinQ_Bai02.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\obj\Debug\LinQ_Bai02.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\obj\Debug\LinQ_Bai02.exe
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQ_Bai02\obj\Debug\LinQ_Bai02.pdb

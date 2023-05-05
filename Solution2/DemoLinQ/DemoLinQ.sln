@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ_Bai01", "LinQ_Bai01\LinQ_Bai01.csproj", "{92E7D3EC-9539-482B-A8B6-5DE4FD09B3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ_Bai02", "LinQ_Bai02\LinQ_Bai02.csproj", "{5FB6F4B4-0DC9-4E78-90D5-ED95474EFEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQBai03", "LinQBai03\LinQBai03.csproj", "{429EB60B-2D21-4C92-9A30-A08F5E116E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E7D3EC-9539-482B-A8B6-5DE4FD09B3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E7D3EC-9539-482B-A8B6-5DE4FD09B3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E7D3EC-9539-482B-A8B6-5DE4FD09B3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E7D3EC-9539-482B-A8B6-5DE4FD09B3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB6F4B4-0DC9-4E78-90D5-ED95474EFEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB6F4B4-0DC9-4E78-90D5-ED95474EFEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB6F4B4-0DC9-4E78-90D5-ED95474EFEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB6F4B4-0DC9-4E78-90D5-ED95474EFEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429EB60B-2D21-4C92-9A30-A08F5E116E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429EB60B-2D21-4C92-9A30-A08F5E116E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429EB60B-2D21-4C92-9A30-A08F5E116E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429EB60B-2D21-4C92-9A30-A08F5E116E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EE9E20-4163-4A7A-A343-B52E454FEEFA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.exe.config
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.exe
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.pdb
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.exe
+D:\FPTEdu\T2104E\AP\Ngay10\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.pdb
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.exe.config
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.exe
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\bin\Debug\LinQBai03.pdb
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.AssemblyReference.cache
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.SuggestedBindingRedirects.cache
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.csproj.CoreCompileInputs.cache
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.exe
+D:\FPTEdu\T2104E\AP\Ngay10_thamkhao\DemoLinQ\LinQBai03\obj\Debug\LinQBai03.pdb
