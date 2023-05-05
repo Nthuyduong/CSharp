@@ -13,7 +13,7 @@ class Program
         Select = Number;
         return Select;
     }
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Productlist list = new Productlist();
         int Select;
@@ -24,15 +24,18 @@ class Program
             {
                 case 1:
                     Console.WriteLine("Add product record");
+                    list.Addproduct();
                     break;
                 case 2:
                     Console.WriteLine("Display product record");
+                    list.Displayproduct();
                     break;
                 case 3:
                     Console.WriteLine("Delete product by ID");
+                    list.DeleteProduct();
                     break;
                 default:
-                    Console.WriteLine("Delete product by ID");
+                    Console.WriteLine("Kết thúc chương trình");
                     break;
             }
         }
