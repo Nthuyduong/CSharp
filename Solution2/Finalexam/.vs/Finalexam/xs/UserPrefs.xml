@@ -1,18 +1,12 @@
 ﻿<Properties StartupConfiguration="{E4E9F51E-F8B6-4F04-9F76-6A8500B6F6E3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Finalexam/Productlist.cs">
-    <Files>
-      <File FileName="../mangsinhvi/Program.cs" Line="27" Column="11" />
-      <File FileName="../mangsinhvi/Student.cs" Line="1" Column="1" />
-      <File FileName="Finalexam/Product.cs" Line="42" Column="1" />
-      <File FileName="../mangsinhvi/Studentlist.cs" Line="28" Column="10" />
-      <File FileName="Finalexam/Productlist.cs" Line="56" Column="12" NotebookId="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Finalexam" expanded="True">
+            <Node name="Exam_CSharp" expanded="True" />
             <Node name="Finalexam" expanded="True">
-              <Node name="Productlist.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,8 +15,10 @@
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Exam__CSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Exam__CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Finalexam PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

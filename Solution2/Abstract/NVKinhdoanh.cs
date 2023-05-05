@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-	public class NVKinhdoanh : Nhavien
+	public class NVKinhdoanh : Nhanvien
 	{
 		public double Doanhthu;
 
