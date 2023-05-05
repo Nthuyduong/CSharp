@@ -9,7 +9,6 @@ namespace Exam_CSharp
     public class Demo
     {
         
-
         public static void Main(string[] args)
         {
             double totalTaxofBook = 0;
@@ -17,11 +16,11 @@ namespace Exam_CSharp
             //create Product array of size 5(three Books and two Phones)
             Product[] list = new Product[5];
 
-            list[1] = new Book("no1", "The sun", 70 );
-            list[2] = new Book("no2", "Harry Potter", 50);
-            list[3] = new Book("no3", "Little woman", 80);
-            list[4] = new Phone("no4", "Iphone", 500);
-            list[5] = new Phone("no5", "Sam sung", 300);
+            list[0] = new Book("no1", "The sun", 70 );
+            list[1] = new Book("no2", "Harry Potter", 50);
+            list[2] = new Book("no3", "Little woman", 80);
+            list[3] = new Phone("no4", "Iphone", 500);
+            list[4] = new Phone("no5", "Sam sung", 300);
 
             foreach(Product product in list)
             {

@@ -9,7 +9,7 @@ public abstract class Product
 {
     public string ProductID;
     public string ProductName;
-    public int Price;
+    public double Price;
 
     public Product()
     {
