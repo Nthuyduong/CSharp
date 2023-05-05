@@ -1,11 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Finalexam
 {
-	public class Product
+	internal class Product
 	{
 		public string ProductID;
 		public string Name;
 		public double Price;
+
 		public Product()
 		{
 		}
@@ -17,7 +23,7 @@ namespace Finalexam
 			this.Price = Price;
 		}
 
-		public void Add()
+		public void Input()
 		{
 			Console.WriteLine("Enter product ID:");
 			ProductID = Console.ReadLine();
@@ -26,6 +32,11 @@ namespace Finalexam
             Console.WriteLine("Enter product's price:");
             Price = double.Parse(Console.ReadLine());
         }
+
+		public void Display()
+		{
+			Console.WriteLine("ProducID: {0}, Name: {1}, Price: {2}", ProductID, Name, Price);
+		}
 	}
 }
 

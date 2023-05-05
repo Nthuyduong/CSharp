@@ -1,0 +1,5 @@
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Finalexam/Finalexam/obj/Debug/net7.0/Finalexam.csproj.AssemblyReference.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Finalexam/Finalexam/obj/Debug/net7.0/Finalexam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Finalexam/Finalexam/obj/Debug/net7.0/Finalexam.AssemblyInfoInputs.cache
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Finalexam/Finalexam/obj/Debug/net7.0/Finalexam.AssemblyInfo.cs
+/Users/nguyenthuyduong/Documents/CSharp/Solution2/Finalexam/Finalexam/obj/Debug/net7.0/Finalexam.csproj.CoreCompileInputs.cache

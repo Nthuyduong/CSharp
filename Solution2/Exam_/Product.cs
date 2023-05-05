@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Exam_CSharp;
-abstract class Product
+public abstract class Product
 {
     public string ProductID;
     public string ProductName;
@@ -23,6 +23,7 @@ abstract class Product
         this.Price = Price;
     }
 
+    //abstract method to calculate tax of product.
     public abstract double computeTax();
 }
 
